@@ -5,13 +5,13 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version 2.6.0p0
 
-* System dependencies
+* System dependencies - see gemfie
 
 * Configuration
 
-* Database creation
+* Database creation 
 
 * Database initialization
 
