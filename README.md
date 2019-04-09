@@ -1,9 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the third application from the Ruby on Rails Tutorial(Rails 5) - Learn web development with Rails by Michael Hartl
+It is a micropost application( Twitter) hosted on Heroku
 
-Things you may want to cover:
 
 * Ruby version 2.6.0p0
 
@@ -21,4 +20,3 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
